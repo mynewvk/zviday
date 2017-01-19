@@ -1,0 +1,141 @@
+.well{
+/*	box-shadow: 0 0 30px rgba(0,0,0,.7);
+	-webkit-box-shadow: 0 0 30px rgba(0,0,0,.7);
+	-moz-box-shadow: 0 0 30px rgba(0,0,0,.7);
+	-o-box-shadow: 0 0 30px rgba(0,0,0,.7);*/
+}
+ .left-7{
+ 	left:7px;
+ }
+.container{
+	  min-width: 900px !important;
+	  margin-top:70px;
+}
+.non{
+	min-width: 900px !important;
+}
+.inline{
+	display: inline-block;
+}
+.alert{
+	padding: 7px;
+	word-wrap:break-word;
+}
+.break-word{
+	word-wrap:break-word;
+}
+.friends-link{
+	text-decoration: none;
+	border: none;
+}
+/* Questions elements*/
+.timeago[title]{
+	border:none;
+	font-size:.9em;
+}
+.ask-from{
+	font-size:.9em;
+	color:#31708F;
+}
+.ask-comments{
+	display:inline-block;
+	font-size:.9em;
+}
+.ask-bottom-block{
+	margin-top:10px;
+}
+.ask-avatar{
+	border-radius: 5px;
+}
+.ask-answer-alert{
+	margin-top:10px;
+	margin-bottom: 0;
+}
+.ask-comments-count{
+	font-size:.87em;
+}
+.em-8{
+	font-size: .8em;
+}
+.em-6{
+	font-size: .6em;
+}
+.em-4{
+	font-size: .4em;
+}
+.ask-answer-photo{
+	width:200px;
+	height:auto;
+	margin:0;
+	margin-top:10px;
+}
+/* end question elements */
+.last-login-time{
+	border: none;
+}
+.change-avatar-button{
+	margin-top:10px;
+}
+.follow-button{
+	margin-top:10px;
+}
+.share-input:focus{
+	box-shadow: none;
+}
+.comments-heading{
+	margin-bottom:20px;
+	word-wrap:break-word;
+}
+.comments-link{
+	font-size: .8em;
+}
+/*
+
+Emoji
+
+*/
+.emoji{
+	width:16px;
+	height:16px;
+	background-image: url(/media/smile/emoji.png);
+	background-repeat: no-repeat;
+	outline: none;
+	border: none;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 2px;
+}
+.emoji-pointer:hover{
+	background-color: rgba(0,0,0,.1);
+	cursor: pointer;
+	zoom:1.1;
+}
+.emoji-0{background-position: 0 0px;}.emoji-1{background-position: 0 -17px;}.emoji-2{background-position: 0 -34px;}.emoji-3{background-position: 0 -51px;}.emoji-4{background-position: 0 -68px;}.emoji-5{background-position: 0 -85px;}.emoji-6{background-position: 0 -102px;}.emoji-7{background-position: 0 -119px;}.emoji-8{background-position: 0 -136px;}.emoji-9{background-position: 0 -153px;}.emoji-10{background-position: 0 -170px;}.emoji-11{background-position: 0 -187px;}.emoji-12{background-position: 0 -204px;}.emoji-13{background-position: 0 -221px;}.emoji-14{background-position: 0 -238px;}.emoji-15{background-position: 0 -255px;}.emoji-16{background-position: 0 -272px;}.emoji-17{background-position: 0 -289px;}.emoji-18{background-position: 0 -306px;}.emoji-19{background-position: 0 -323px;}.emoji-20{background-position: 0 -340px;}.emoji-21{background-position: 0 -357px;}.emoji-22{background-position: 0 -374px;}.emoji-23{background-position: 0 -391px;}.emoji-24{background-position: 0 -408px;}.emoji-25{background-position: 0 -425px;}.emoji-26{background-position: 0 -442px;}.emoji-27{background-position: 0 -459px;}.emoji-28{background-position: 0 -476px;}.emoji-29{background-position: 0 -493px;}.emoji-30{background-position: 0 -510px;}.emoji-31{background-position: 0 -527px;}
+ /* 
+ end emoji 
+ */
+ .vk-button{
+ 	top:5px;
+ 	display:inline-block;
+ 	left:35px;
+ }
+ .link-default{
+ 	color:#333;
+ }
+ .link-default:hover{
+	color:#777;
+ }
+
+ #later-count{
+ 	position:relative;
+ 	top:-44px;
+ 	left:-80px;
+ 	font-size:1.3em;
+ }
+ #emoji-button{
+ 	position:relative;
+ 	top:-45px;
+ 	left:-80px;
+ 	font-size:1.3em;
+ 	cursor:pointer
+ }
